@@ -1,5 +1,5 @@
 # Grades
-this repository contain a console aplication named Gradebook
+this repository contain a console aplication named Grades
 # Gradebook
 This is a Grade book console application
 - you can create a grade book and give a name make some specific prosessors
